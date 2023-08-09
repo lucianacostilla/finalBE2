@@ -1,0 +1,10 @@
+[2023-04-05 20:48:55] [ DEBUG] [TurnoService:22] Guardando odontologo con nombre: Chanyeol
+[2023-04-05 20:48:55] [ DEBUG] [TurnoService:27] Eliminando odontologo con id: 1
+[2023-04-05 20:57:39] [ DEBUG] [TurnoService:22] Guardando odontologo con nombre: Chanyeol
+[2023-04-05 20:57:39] [ DEBUG] [TurnoService:27] Eliminando odontologo con id: 1
+[2023-04-05 20:58:10] [ DEBUG] [TurnoService:22] Guardando odontologo con nombre: Chanyeol
+[2023-04-05 20:58:10] [ DEBUG] [TurnoService:27] Eliminando odontologo con id: 1
+[2023-04-10 16:20:12] [ INFO ] [PacienteService:25] agregando pacientes.
+[2023-04-10 16:20:13] [ DEBUG] [TurnoService:22] Guardando odontologo con nombre: Julian
+[2023-04-10 16:20:13] [ INFO ] [TurnoService:38] Guardando turno
+[2023-04-10 16:20:13] [ INFO ] [TurnoService:49] Obteniendo todos los turnos

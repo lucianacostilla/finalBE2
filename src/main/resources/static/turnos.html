@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <title>Agregar Turnos</title>
+</head>
+
+<body>
+<header>
+    <img src="https://static.vecteezy.com/system/resources/previews/007/356/383/non_2x/clean-tooth-icon-style-vector.jpg" alt="Logo" width="55px" height="55px">    <nav>
+        <ul>
+            <li><a href="./index.html">Inicio</a></li>
+            <li><a href="./odontologos.html">Odontólogos</a></li>
+            <li><a href="./pacientes.html">Pacientes</a></li>
+            <li><a href="./turnos.html">Turnos</a></li>
+        </ul>
+    </nav>
+</header>
+<h1>Agregar Turno</h1>
+<form id="add-turno" class="form-item-odontologo" action="#" method="post">
+
+    <label for="fecha">Fecha de Turno</label>
+    <input type="date" id="fecha" name="fecha" required>
+    <label for="listaOdontologos">Odontólogo:</label>
+    <select id="listaOdontologos" name="odontologo">
+        <option value="opcion1"> Opción 1</option>
+
+    </select>
+
+    <label for="listaPaciente">Paciente:</label>
+    <select id="listaPaciente" name="paciente">
+        <option value="opcion1">Opción 1</option>
+
+    </select>
+
+
+    <input class="button" type="submit" value="Agregar">
+</form>
+<script src="./Js/listadoturnos.js"></script>
+</body>
+
+</html>
